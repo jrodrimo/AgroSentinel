@@ -48,9 +48,8 @@ void loop() {
       }
       
       p = strtok(NULL, "#");
-    
-    USB.println(F("-----------------------"));
     }
+   USB.println(F("-----------------------"));
   }
 }
 
