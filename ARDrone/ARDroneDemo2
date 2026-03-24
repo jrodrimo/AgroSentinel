@@ -1,0 +1,223 @@
+package lab.fad;
+
+import javax.imageio.ImageIO;
+import javax.swing.JFrame;
+import javax.swing.SwingUtilities;
+import java.awt.Toolkit;
+import java.awt.event.KeyListener;
+import java.awt.Graphics;
+import java.awt.image.BufferedImage;
+import java.io.File;
+import java.io.IOException;
+import java.awt.Dimension;
+
+import java.awt.event.InputEvent;
+import java.awt.event.KeyEvent;
+
+import de.yadrone.base.ARDrone;
+import de.yadrone.base.IARDrone;
+import de.yadrone.base.video.ImageListener;
+
+public class ARDroneDemo2 extends JFrame implements KeyListener
+{
+	private IARDrone drone = null;
+    private BufferedImage image = null;
+    
+    public ARDroneDemo()
+    {
+    	try {
+			drone = new ARDrone();
+			drone.start();
+		} catch( Exception ex ) {
+			// Print MessageBox
+			ex.printStackTrace();
+			if ( drone != null ) {
+				drone.stop();
+			}
+		}
+		// Build GUI        
+		setIconImage(Toolkit.getDefaultToolkit().getImage("dte.png"));
+		
+		//A�adimos un t�tulo a la ventana principal
+		setTitle("ARDrone Demo");
+        
+        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+				
+		setFocusable(true);
+        addKeyListener(this);
+
+        drone.getVideoManager().addImageListener(new ImageListener() {
+            public void imageUpdated(BufferedImage newImage)
+            {
+                image = newImage;
+
+                long currentTime = System.currentTimeMillis();
+
+                long lastSavedTime=0;
+                int imageCounter=1;
+                
+				// Guardar solo una imagen por segundo
+                if (currentTime - lastSavedTime >= 1000) {
+                    lastSavedTime = currentTime;
+
+                    try {
+                        String timestamp = new java.text.SimpleDateFormat("yyyyMMdd_HHmmss")
+                                .format(new java.util.Date());
+
+						String fileName = "parrot_" + timestamp + "_" + (imageCounter++) + ".jpg";
+
+                        ImageIO.write(image, "jpg",
+                                new File("C:\\Users\\Jesús Rodríguez\\Documents\\CASSINI\\parrot\\" + fileName));
+
+                    } catch (IOException e1) {
+                        e1.printStackTrace();
+                    }
+                }
+
+                SwingUtilities.invokeLater(new Runnable() {
+                    public void run()
+                    {
+                        repaint();
+                    }
+                });
+            }
+        });
+    }
+    
+    public synchronized void paint(Graphics g)
+    {
+        if (image != null)
+			g.drawImage(image, 0, 0, image.getWidth(), image.getHeight(), null);
+    }
+
+	public void keyReleased(KeyEvent e)
+	{
+//		System.out.println("Key released: " + e.getKeyChar());
+
+		drone.hover();
+	}
+
+	public void keyPressed(KeyEvent e)
+	{
+//		System.out.println("Key pressed: " + e.getKeyChar()); //  + " (Enter=" + KeyEvent.VK_ENTER + " Space=" + KeyEvent.VK_SPACE + " S=" + KeyEvent.VK_S + " E=" + KeyEvent.VK_E + ")");
+
+		int key = e.getKeyCode();
+		int mod = e.getModifiersEx();
+
+		handleCommand(key, mod);
+	}
+
+	@Override
+	public void keyTyped(KeyEvent e) {}
+
+	protected void handleCommand(int key, int mod)
+	{		
+		boolean shiftflag = false;
+		if ((mod & InputEvent.SHIFT_DOWN_MASK) != 0)
+		{
+			shiftflag = true;
+		}
+
+		switch (key)
+		{
+			case KeyEvent.VK_ENTER:
+				drone.takeOff();
+				break;
+			case KeyEvent.VK_SPACE:
+				drone.landing();
+				break;
+			case KeyEvent.VK_S:
+				drone.stop();
+				break;
+			case KeyEvent.VK_LEFT:
+				if (shiftflag)
+				{
+					drone.spinLeft();
+					shiftflag = false;
+				}
+				else
+					drone.goLeft();
+				break;
+			case KeyEvent.VK_RIGHT:
+				if (shiftflag)
+				{
+					drone.spinRight();
+					shiftflag = false;
+				}
+				else
+					drone.goRight();
+				break;
+			case KeyEvent.VK_UP:
+				if (shiftflag)
+				{
+					drone.up();
+					shiftflag = false;
+				}
+				else
+					drone.forward();
+				break;
+			case KeyEvent.VK_DOWN:
+				if (shiftflag)
+				{
+					drone.down();
+					shiftflag = false;
+				}
+				else
+					drone.backward();
+				break;
+			case KeyEvent.VK_1:
+				drone.setHorizontalCamera();
+				// System.out.println("1");
+				break;
+			case KeyEvent.VK_2:
+				drone.setHorizontalCameraWithVertical();
+				// System.out.println("2");
+				break;
+			case KeyEvent.VK_3:
+				drone.setVerticalCamera();
+				// System.out.println("3");
+				break;
+			case KeyEvent.VK_4:
+				drone.setVerticalCameraWithHorizontal();
+				// System.out.println("4");
+				break;
+			case KeyEvent.VK_5:
+				drone.toggleCamera();
+				// System.out.println("5");
+				break;
+			case KeyEvent.VK_R:
+				drone.spinRight();
+				break;
+			case KeyEvent.VK_L:
+				drone.spinLeft();
+				break;
+			case KeyEvent.VK_U:
+				drone.up();
+				break;
+			case KeyEvent.VK_D:
+				drone.down();
+				break;
+			case KeyEvent.VK_E:
+				drone.reset();
+				break;
+			case KeyEvent.VK_PLUS:
+				drone.setSpeed(drone.getSpeed()+1);
+				break;
+			case KeyEvent.VK_MINUS:
+				drone.setSpeed(drone.getSpeed()-1);
+				break;
+		}
+	}
+    
+	public static void main(String[] args) {
+		ARDroneDemo frame = new ARDroneDemo();
+//      frame.setPreferredSize(new Dimension(1024, 700));
+        frame.setPreferredSize(new Dimension(680, 500));
+        frame.setResizable(false);
+		frame.pack();
+		frame.setVisible(true);
+	}	
+}
+
+
+
