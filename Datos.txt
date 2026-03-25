@@ -1,0 +1,4522 @@
+J#
+Receptor de datos iniciado
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 40
+--- Lecturas ---
+IN_TEMP:18.36STR: Celsius
+HUM:37.5STR: %
+PRES:96503.98STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 41
+--- Lecturas ---
+IN_TEMP:18.35STR: Celsius
+HUM:37.6STR: %
+PRES:96504.30STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 42
+--- Lecturas ---
+IN_TEMP:18.54STR: Celsius
+HUM:37.9STR: %
+PRES:96498.13STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 43
+--- Lecturas ---
+IN_TEMP:18.62STR: Celsius
+HUM:38.3STR: %
+PRES:96501.11STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 44
+--- Lecturas ---
+IN_TEMP:18.34STR: Celsius
+HUM:38.2STR: %
+PRES:96500.87STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 45
+--- Lecturas ---
+IN_TEMP:18.29STR: Celsius
+HUM:38.6STR: %
+PRES:96507.00STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 46
+--- Lecturas ---
+IN_TEMP:18.30STR: Celsius
+HUM:39.7STR: %
+PRES:96502.55STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 47
+--- Lecturas ---
+IN_TEMP:18.21STR: Celsius
+HUM:39.6STR: %
+PRES:96509.27STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 48
+--- Lecturas ---
+IN_TEMP:18.16STR: Celsius
+HUM:39.0STR: %
+PRES:96502.28STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 119
+--- Lecturas ---
+STR:ACC interrupt detected-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 49
+--- Lecturas ---
+IN_TEMP:18.07STR: Celsius
+HUM:38.7STR: %
+PRES:96500.18STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 120
+--- Lecturas ---
+IN_TEMP:18.04STR: Celsius
+HUM:42.0STR: %
+PRES:96569.80STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 50
+--- Lecturas ---
+IN_TEMP:17.98STR: Celsius
+HUM:38.6STR: %
+PRES:96500.09STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 121
+--- Lecturas ---
+IN_TEMP:18.07STR: Celsius
+HUM:41.5STR: %
+PRES:96567.09STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 51
+--- Lecturas ---
+IN_TEMP:17.92STR: Celsius
+HUM:38.6STR: %
+PRES:96504.98STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 122
+--- Lecturas ---
+IN_TEMP:17.98STR: Celsius
+HUM:41.0STR: %
+PRES:96562.75STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 52
+--- Lecturas ---
+IN_TEMP:17.90STR: Celsius
+HUM:38.8STR: %
+PRES:96499.53STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 123
+--- Lecturas ---
+IN_TEMP:17.95STR: Celsius
+HUM:40.8STR: %
+PRES:96561.97STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 53
+--- Lecturas ---
+IN_TEMP:17.93STR: Celsius
+HUM:38.8STR: %
+PRES:96502.20STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 124
+--- Lecturas ---
+IN_TEMP:17.93STR: Celsius
+HUM:40.9STR: %
+PRES:96559.63STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 54
+--- Lecturas ---
+IN_TEMP:18.06STR: Celsius
+HUM:39.0STR: %
+PRES:96498.94STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 125
+--- Lecturas ---
+IN_TEMP:17.99STR: Celsius
+HUM:40.9STR: %
+PRES:96566.64STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 55
+--- Lecturas ---
+IN_TEMP:18.20STR: Celsius
+HUM:39.0STR: %
+PRES:96504.04STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 126
+--- Lecturas ---
+IN_TEMP:18.06STR: Celsius
+HUM:40.7STR: %
+PRES:96562.80STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 56
+--- Lecturas ---
+IN_TEMP:18.15STR: Celsius
+HUM:39.0STR: %
+PRES:96499.60STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 127
+--- Lecturas ---
+IN_TEMP:18.07STR: Celsius
+HUM:40.9STR: %
+PRES:96559.36STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 57
+--- Lecturas ---
+IN_TEMP:17.95STR: Celsius
+HUM:38.9STR: %
+PRES:96504.66STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 128
+--- Lecturas ---
+IN_TEMP:18.06STR: Celsius
+HUM:41.2STR: %
+PRES:96562.44STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 58
+--- Lecturas ---
+IN_TEMP:17.74STR: Celsius
+HUM:38.9STR: %
+PRES:96492.98STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 129
+--- Lecturas ---
+IN_TEMP:18.04STR: Celsius
+HUM:40.9STR: %
+PRES:96562.03STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 59
+--- Lecturas ---
+IN_TEMP:17.50STR: Celsius
+HUM:39.3STR: %
+PRES:96496.89STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 130
+--- Lecturas ---
+IN_TEMP:18.00STR: Celsius
+HUM:40.6STR: %
+PRES:96565.09STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 60
+--- Lecturas ---
+IN_TEMP:17.35STR: Celsius
+HUM:39.9STR: %
+PRES:96501.20STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 131
+--- Lecturas ---
+IN_TEMP:17.93STR: Celsius
+HUM:40.7STR: %
+PRES:96557.28STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 61
+--- Lecturas ---
+IN_TEMP:17.27STR: Celsius
+HUM:40.3STR: %
+PRES:96499.54STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 132
+--- Lecturas ---
+IN_TEMP:17.96STR: Celsius
+HUM:41.1STR: %
+PRES:96563.52STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 62
+--- Lecturas ---
+IN_TEMP:17.13STR: Celsius
+HUM:40.6STR: %
+PRES:96497.17STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 133
+--- Lecturas ---
+IN_TEMP:17.98STR: Celsius
+HUM:41.5STR: %
+PRES:96557.73STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 63
+--- Lecturas ---
+IN_TEMP:17.08STR: Celsius
+HUM:41.3STR: %
+PRES:96500.07STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 134
+--- Lecturas ---
+IN_TEMP:17.92STR: Celsius
+HUM:41.8STR: %
+PRES:96558.08STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 64
+--- Lecturas ---
+IN_TEMP:17.08STR: Celsius
+HUM:41.6STR: %
+PRES:96498.84STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 135
+--- Lecturas ---
+IN_TEMP:17.94STR: Celsius
+HUM:42.1STR: %
+PRES:96554.24STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 65
+--- Lecturas ---
+IN_TEMP:17.08STR: Celsius
+HUM:41.3STR: %
+PRES:96500.84STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 136
+--- Lecturas ---
+IN_TEMP:17.98STR: Celsius
+HUM:41.9STR: %
+PRES:96558.91STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 66
+--- Lecturas ---
+IN_TEMP:17.06STR: Celsius
+HUM:40.9STR: %
+PRES:96494.95STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 137
+--- Lecturas ---
+IN_TEMP:18.05STR: Celsius
+HUM:41.7STR: %
+PRES:96562.80STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 67
+--- Lecturas ---
+IN_TEMP:17.00STR: Celsius
+HUM:40.7STR: %
+PRES:96496.71STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 138
+--- Lecturas ---
+IN_TEMP:18.12STR: Celsius
+HUM:41.4STR: %
+PRES:96558.23STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 68
+--- Lecturas ---
+IN_TEMP:17.00STR: Celsius
+HUM:40.7STR: %
+PRES:96499.48STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 139
+--- Lecturas ---
+IN_TEMP:18.16STR: Celsius
+HUM:41.0STR: %
+PRES:96559.81STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 69
+--- Lecturas ---
+IN_TEMP:16.99STR: Celsius
+HUM:41.1STR: %
+PRES:96495.17STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 140
+--- Lecturas ---
+IN_TEMP:18.19STR: Celsius
+HUM:40.7STR: %
+PRES:96565.23STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 70
+--- Lecturas ---
+IN_TEMP:16.85STR: Celsius
+HUM:41.2STR: %
+PRES:96497.56STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 141
+--- Lecturas ---
+IN_TEMP:18.16STR: Celsius
+HUM:40.9STR: %
+PRES:96562.89STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 71
+--- Lecturas ---
+IN_TEMP:16.71STR: Celsius
+HUM:41.3STR: %
+PRES:96490.41STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 142
+--- Lecturas ---
+IN_TEMP:18.12STR: Celsius
+HUM:40.8STR: %
+PRES:96561.31STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 72
+--- Lecturas ---
+IN_TEMP:16.60STR: Celsius
+HUM:41.4STR: %
+PRES:96497.04STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 143
+--- Lecturas ---
+IN_TEMP:18.11STR: Celsius
+HUM:40.7STR: %
+PRES:96561.31STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 73
+--- Lecturas ---
+IN_TEMP:16.57STR: Celsius
+HUM:41.7STR: %
+PRES:96497.13STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 144
+--- Lecturas ---
+IN_TEMP:18.12STR: Celsius
+HUM:40.5STR: %
+PRES:96565.96STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 74
+--- Lecturas ---
+IN_TEMP:16.59STR: Celsius
+HUM:42.2STR: %
+PRES:96499.81STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 145
+--- Lecturas ---
+IN_TEMP:18.13STR: Celsius
+HUM:40.8STR: %
+PRES:96564.43STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 75
+--- Lecturas ---
+IN_TEMP:16.67STR: Celsius
+HUM:42.2STR: %
+PRES:96494.95STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 146
+--- Lecturas ---
+IN_TEMP:18.24STR: Celsius
+HUM:41.1STR: %
+PRES:96558.69STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 76
+--- Lecturas ---
+IN_TEMP:16.66STR: Celsius
+HUM:42.5STR: %
+PRES:96492.49STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 147
+--- Lecturas ---
+IN_TEMP:18.37STR: Celsius
+HUM:41.5STR: %
+PRES:96561.11STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 77
+--- Lecturas ---
+IN_TEMP:16.67STR: Celsius
+HUM:42.9STR: %
+PRES:96497.27STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 148
+--- Lecturas ---
+IN_TEMP:18.27STR: Celsius
+HUM:41.4STR: %
+PRES:96561.41STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 78
+--- Lecturas ---
+IN_TEMP:16.55STR: Celsius
+HUM:42.3STR: %
+PRES:96499.55STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 149
+--- Lecturas ---
+IN_TEMP:18.23STR: Celsius
+HUM:41.6STR: %
+PRES:96560.63STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 79
+--- Lecturas ---
+IN_TEMP:16.53STR: Celsius
+HUM:42.4STR: %
+PRES:96498.44STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 150
+--- Lecturas ---
+IN_TEMP:18.21STR: Celsius
+HUM:41.0STR: %
+PRES:96555.94STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 80
+--- Lecturas ---
+IN_TEMP:16.54STR: Celsius
+HUM:42.4STR: %
+PRES:96499.21STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 151
+--- Lecturas ---
+IN_TEMP:18.20STR: Celsius
+HUM:40.7STR: %
+PRES:96557.51STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 81
+--- Lecturas ---
+IN_TEMP:16.54STR: Celsius
+HUM:42.2STR: %
+PRES:96498.02STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 152
+--- Lecturas ---
+IN_TEMP:18.33STR: Celsius
+HUM:40.6STR: %
+PRES:96559.14STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 82
+--- Lecturas ---
+IN_TEMP:16.54STR: Celsius
+HUM:42.1STR: %
+PRES:96497.55STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 153
+--- Lecturas ---
+IN_TEMP:18.45STR: Celsius
+HUM:40.8STR: %
+PRES:96559.22STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 83
+--- Lecturas ---
+IN_TEMP:16.49STR: Celsius
+HUM:42.5STR: %
+PRES:96498.98STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 154
+--- Lecturas ---
+IN_TEMP:18.54STR: Celsius
+HUM:40.6STR: %
+PRES:96555.77STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 84
+--- Lecturas ---
+IN_TEMP:16.37STR: Celsius
+HUM:42.1STR: %
+PRES:96495.27STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 155
+--- Lecturas ---
+IN_TEMP:18.55STR: Celsius
+HUM:40.8STR: %
+PRES:96556.17STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 85
+--- Lecturas ---
+IN_TEMP:16.24STR: Celsius
+HUM:41.9STR: %
+PRES:96490.89STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 156
+--- Lecturas ---
+IN_TEMP:18.43STR: Celsius
+HUM:40.2STR: %
+PRES:96558.41STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 86
+--- Lecturas ---
+IN_TEMP:16.16STR: Celsius
+HUM:41.8STR: %
+PRES:96495.08STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 157
+--- Lecturas ---
+IN_TEMP:18.35STR: Celsius
+HUM:39.7STR: %
+PRES:96556.42STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 87
+--- Lecturas ---
+IN_TEMP:16.15STR: Celsius
+HUM:41.9STR: %
+PRES:96489.53STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 158
+--- Lecturas ---
+IN_TEMP:18.30STR: Celsius
+HUM:39.3STR: %
+PRES:96554.45STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 88
+--- Lecturas ---
+IN_TEMP:16.14STR: Celsius
+HUM:42.0STR: %
+PRES:96496.62STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 159
+--- Lecturas ---
+IN_TEMP:18.26STR: Celsius
+HUM:39.6STR: %
+PRES:96550.55STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 89
+--- Lecturas ---
+IN_TEMP:16.17STR: Celsius
+HUM:42.0STR: %
+PRES:96496.96STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 160
+--- Lecturas ---
+IN_TEMP:18.28STR: Celsius
+HUM:39.4STR: %
+PRES:96550.59STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 90
+--- Lecturas ---
+IN_TEMP:16.22STR: Celsius
+HUM:42.2STR: %
+PRES:96491.34STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 161
+--- Lecturas ---
+IN_TEMP:18.39STR: Celsius
+HUM:39.4STR: %
+PRES:96550.64STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 91
+--- Lecturas ---
+IN_TEMP:16.25STR: Celsius
+HUM:42.3STR: %
+PRES:96496.77STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 162
+--- Lecturas ---
+IN_TEMP:18.47STR: Celsius
+HUM:39.4STR: %
+PRES:96556.13STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 92
+--- Lecturas ---
+IN_TEMP:16.28STR: Celsius
+HUM:42.4STR: %
+PRES:96489.58STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 163
+--- Lecturas ---
+IN_TEMP:18.51STR: Celsius
+HUM:39.3STR: %
+PRES:96555.36STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 93
+--- Lecturas ---
+IN_TEMP:16.29STR: Celsius
+HUM:42.6STR: %
+PRES:96491.58STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 164
+--- Lecturas ---
+IN_TEMP:18.45STR: Celsius
+HUM:39.4STR: %
+PRES:96553.02STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 94
+--- Lecturas ---
+IN_TEMP:16.30STR: Celsius
+HUM:43.4STR: %
+PRES:96494.27STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 165
+--- Lecturas ---
+IN_TEMP:18.45STR: Celsius
+HUM:39.6STR: %
+PRES:96544.88STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 95
+--- Lecturas ---
+IN_TEMP:16.40STR: Celsius
+HUM:44.5STR: %
+PRES:96491.64STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 166
+--- Lecturas ---
+IN_TEMP:18.50STR: Celsius
+HUM:39.8STR: %
+PRES:96552.28STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 96
+--- Lecturas ---
+IN_TEMP:16.48STR: Celsius
+HUM:44.5STR: %
+PRES:96490.22STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 167
+--- Lecturas ---
+IN_TEMP:18.59STR: Celsius
+HUM:40.0STR: %
+PRES:96547.27STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 97
+--- Lecturas ---
+IN_TEMP:16.53STR: Celsius
+HUM:44.4STR: %
+PRES:96492.47STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 168
+--- Lecturas ---
+IN_TEMP:18.57STR: Celsius
+HUM:40.3STR: %
+PRES:96555.00STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 98
+--- Lecturas ---
+IN_TEMP:16.57STR: Celsius
+HUM:44.5STR: %
+PRES:96495.47STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 169
+--- Lecturas ---
+IN_TEMP:18.60STR: Celsius
+HUM:40.5STR: %
+PRES:96554.63STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 99
+--- Lecturas ---
+IN_TEMP:16.68STR: Celsius
+HUM:44.7STR: %
+PRES:96490.06STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 170
+--- Lecturas ---
+IN_TEMP:18.62STR: Celsius
+HUM:40.8STR: %
+PRES:96553.09STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 100
+--- Lecturas ---
+IN_TEMP:16.71STR: Celsius
+HUM:44.6STR: %
+PRES:96493.17STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 171
+--- Lecturas ---
+IN_TEMP:18.58STR: Celsius
+HUM:41.0STR: %
+PRES:96549.98STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 101
+--- Lecturas ---
+IN_TEMP:16.67STR: Celsius
+HUM:44.2STR: %
+PRES:96494.16STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 172
+--- Lecturas ---
+IN_TEMP:18.63STR: Celsius
+HUM:41.1STR: %
+PRES:96547.30STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 102
+--- Lecturas ---
+IN_TEMP:16.58STR: Celsius
+HUM:44.1STR: %
+PRES:96501.02STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 173
+--- Lecturas ---
+IN_TEMP:18.63STR: Celsius
+HUM:41.0STR: %
+PRES:96549.23STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 103
+--- Lecturas ---
+IN_TEMP:16.54STR: Celsius
+HUM:43.9STR: %
+PRES:96494.78STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 174
+--- Lecturas ---
+IN_TEMP:18.70STR: Celsius
+HUM:40.9STR: %
+PRES:96552.35STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 104
+--- Lecturas ---
+IN_TEMP:16.53STR: Celsius
+HUM:44.1STR: %
+PRES:96486.92STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 175
+--- Lecturas ---
+IN_TEMP:18.62STR: Celsius
+HUM:40.9STR: %
+PRES:96553.86STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 105
+--- Lecturas ---
+IN_TEMP:16.49STR: Celsius
+HUM:44.0STR: %
+PRES:96489.44STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 176
+--- Lecturas ---
+IN_TEMP:18.51STR: Celsius
+HUM:40.6STR: %
+PRES:96554.59STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 106
+--- Lecturas ---
+IN_TEMP:16.44STR: Celsius
+HUM:44.1STR: %
+PRES:96495.10STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 177
+--- Lecturas ---
+IN_TEMP:18.42STR: Celsius
+HUM:40.6STR: %
+PRES:96550.64STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 107
+--- Lecturas ---
+IN_TEMP:16.46STR: Celsius
+HUM:44.3STR: %
+PRES:96490.67STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 178
+--- Lecturas ---
+IN_TEMP:18.35STR: Celsius
+HUM:40.5STR: %
+PRES:96545.58STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 108
+--- Lecturas ---
+IN_TEMP:16.47STR: Celsius
+HUM:44.3STR: %
+PRES:96489.44STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 179
+--- Lecturas ---
+IN_TEMP:18.36STR: Celsius
+HUM:40.4STR: %
+PRES:96552.58STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 109
+--- Lecturas ---
+IN_TEMP:16.48STR: Celsius
+HUM:44.0STR: %
+PRES:96488.24STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 180
+--- Lecturas ---
+IN_TEMP:18.31STR: Celsius
+HUM:40.5STR: %
+PRES:96552.94STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 110
+--- Lecturas ---
+IN_TEMP:16.45STR: Celsius
+HUM:43.6STR: %
+PRES:96491.88STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 181
+--- Lecturas ---
+IN_TEMP:18.27STR: Celsius
+HUM:40.3STR: %
+PRES:96556.78STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 111
+--- Lecturas ---
+IN_TEMP:16.45STR: Celsius
+HUM:43.8STR: %
+PRES:96486.33STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 182
+--- Lecturas ---
+IN_TEMP:18.23STR: Celsius
+HUM:40.1STR: %
+PRES:96548.61STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 112
+--- Lecturas ---
+IN_TEMP:16.50STR: Celsius
+HUM:43.8STR: %
+PRES:96490.55STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 183
+--- Lecturas ---
+IN_TEMP:18.18STR: Celsius
+HUM:40.1STR: %
+PRES:96553.63STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 113
+--- Lecturas ---
+IN_TEMP:16.50STR: Celsius
+HUM:43.5STR: %
+PRES:96490.55STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 184
+--- Lecturas ---
+IN_TEMP:18.14STR: Celsius
+HUM:
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 293444E819623CF5
+ID Nodo: node_03
+Mensaje NÂº: 1
+--- Lecturas ---
+STR:Datos:  IN_TEMP:34.66
+HUM:19.9PRES:96622.34
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 118
+--- Lecturas ---
+IN_TEMP:16.44STR: Celsius
+HUM:42.8STR: %
+PRES:96490.33STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 189
+--- Lecturas ---
+IN_TEMP:18.04STR: Celsius
+HUM:39.3STR: %
+PRES:96540.34STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 293444E819623CF5
+ID Nodo: node_03
+Mensaje NÂº: 2
+--- Lecturas ---
+STR:Datos:  IN_TEMP:34.62
+HUM:19.9PRES:96637.18
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 119
+--- Lecturas ---
+IN_TEMP:16.39STR: Celsius
+HUM:42.5STR: %
+PRES:96487.30STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 190
+--- Lecturas ---
+IN_TEMP:18.08STR: Celsius
+HUM:39.8STR: %
+PRES:96549.66STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 293444E819623CF5
+ID Nodo: node_03
+Mensaje NÂº: 3
+--- Lecturas ---
+STR:ACC interrupt detected-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 120
+--- Lecturas ---
+IN_TEMP:16.30STR: Celsius
+HUM:42.5STR: %
+PRES:96485.95STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 191
+--- Lecturas ---
+IN_TEMP:18.08STR: Celsius
+HUM:39.6STR: %
+PRES:96551.23STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 121
+--- Lecturas ---
+IN_TEMP:16.29STR: Celsius
+HUM:42.8STR: %
+PRES:96482.84STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 192
+--- Lecturas ---
+IN_TEMP:18.08STR: Celsius
+HUM:39.4STR: %
+PRES:96549.66STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 122
+--- Lecturas ---
+IN_TEMP:16.29STR: Celsius
+HUM:42.6STR: %
+PRES:96486.03STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 193
+--- Lecturas ---
+IN_TEMP:18.09STR: Celsius
+HUM:39.5STR: %
+PRES:96553.55STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 123
+--- Lecturas ---
+IN_TEMP:16.26STR: Celsius
+HUM:42.4STR: %
+PRES:96487.27STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 194
+--- Lecturas ---
+IN_TEMP:18.05STR: Celsius
+HUM:39.3STR: %
+PRES:96546.16STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 124
+--- Lecturas ---
+IN_TEMP:16.29STR: Celsius
+HUM:42.7STR: %
+PRES:96484.84STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 195
+--- Lecturas ---
+IN_TEMP:18.02STR: Celsius
+HUM:39.5STR: %
+PRES:96552.31STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 125
+--- Lecturas ---
+IN_TEMP:16.29STR: Celsius
+HUM:42.8STR: %
+PRES:96483.61STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 293444E819623CF5
+ID Nodo: node_03
+Mensaje NÂº: 4
+--- Lecturas ---
+STR:ACC interrupt detected-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 196
+--- Lecturas ---
+IN_TEMP:18.01STR: Celsius
+HUM:39.6STR: %
+PRES:96556.59STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 126
+--- Lecturas ---
+IN_TEMP:16.30STR: Celsius
+HUM:43.2STR: %
+PRES:96479.64STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 197
+--- Lecturas ---
+IN_TEMP:18.06STR: Celsius
+HUM:39.9STR: %
+PRES:96552.77STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 127
+--- Lecturas ---
+IN_TEMP:16.29STR: Celsius
+HUM:43.3STR: %
+PRES:96487.61STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 198
+--- Lecturas ---
+IN_TEMP:18.15STR: Celsius
+HUM:40.0STR: %
+PRES:96550.50STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 128
+--- Lecturas ---
+IN_TEMP:16.27STR: Celsius
+HUM:43.3STR: %
+PRES:96486.03STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 199
+--- Lecturas ---
+IN_TEMP:18.16STR: Celsius
+HUM:40.1STR: %
+PRES:96545.08STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 129
+--- Lecturas ---
+IN_TEMP:16.32STR: Celsius
+HUM:43.7STR: %
+PRES:96487.50STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 200
+--- Lecturas ---
+IN_TEMP:18.15STR: Celsius
+HUM:40.6STR: %
+PRES:96545.86STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 130
+--- Lecturas ---
+IN_TEMP:16.39STR: Celsius
+HUM:43.9STR: %
+PRES:96482.56STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 201
+--- Lecturas ---
+IN_TEMP:18.21STR: Celsius
+HUM:41.1STR: %
+PRES:96548.98STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 131
+--- Lecturas ---
+IN_TEMP:16.51STR: Celsius
+HUM:44.7STR: %
+PRES:96486.16STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 202
+--- Lecturas ---
+IN_TEMP:18.27STR: Celsius
+HUM:41.5STR: %
+PRES:96549.82STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 132
+--- Lecturas ---
+IN_TEMP:16.60STR: Celsius
+HUM:45.0STR: %
+PRES:96481.19STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 203
+--- Lecturas ---
+IN_TEMP:18.36STR: Celsius
+HUM:41.8STR: %
+PRES:96550.64STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 133
+--- Lecturas ---
+IN_TEMP:16.68STR: Celsius
+HUM:45.1STR: %
+PRES:96484.09STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 204
+--- Lecturas ---
+IN_TEMP:18.40STR: Celsius
+HUM:41.9STR: %
+PRES:96548.33STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 134
+--- Lecturas ---
+IN_TEMP:16.76STR: Celsius
+HUM:45.4STR: %
+PRES:96483.11STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 205
+--- Lecturas ---
+IN_TEMP:18.51STR: Celsius
+HUM:42.3STR: %
+PRES:96547.63STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 135
+--- Lecturas ---
+IN_TEMP:16.83STR: Celsius
+HUM:45.7STR: %
+PRES:96481.73STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 206
+--- Lecturas ---
+IN_TEMP:18.61STR: Celsius
+HUM:42.8STR: %
+PRES:96550.78STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 136
+--- Lecturas ---
+IN_TEMP:16.85STR: Celsius
+HUM:45.2STR: %
+PRES:96478.95STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 207
+--- Lecturas ---
+IN_TEMP:18.72STR: Celsius
+HUM:42.7STR: %
+PRES:96551.61STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 137
+--- Lecturas ---
+IN_TEMP:16.82STR: Celsius
+HUM:44.7STR: %
+PRES:96481.39STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 208
+--- Lecturas ---
+IN_TEMP:18.78STR: Celsius
+HUM:42.3STR: %
+PRES:96548.55STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 138
+--- Lecturas ---
+IN_TEMP:16.87STR: Celsius
+HUM:44.6STR: %
+PRES:96480.84STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 209
+--- Lecturas ---
+IN_TEMP:18.81STR: Celsius
+HUM:42.3STR: %
+PRES:96551.67STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 139
+--- Lecturas ---
+IN_TEMP:16.90STR: Celsius
+HUM:44.6STR: %
+PRES:96483.18STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 210
+--- Lecturas ---
+IN_TEMP:18.79STR: Celsius
+HUM:41.9STR: %
+PRES:96547.78STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 140
+--- Lecturas ---
+IN_TEMP:16.91STR: Celsius
+HUM:44.7STR: %
+PRES:96485.49STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 211
+--- Lecturas ---
+IN_TEMP:18.79STR: Celsius
+HUM:41.6STR: %
+PRES:96553.21STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 141
+--- Lecturas ---
+IN_TEMP:16.91STR: Celsius
+HUM:44.8STR: %
+PRES:96483.52STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 212
+--- Lecturas ---
+IN_TEMP:18.85STR: Celsius
+HUM:41.6STR: %
+PRES:96548.58STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 142
+--- Lecturas ---
+IN_TEMP:16.97STR: Celsius
+HUM:45.3STR: %
+PRES:96485.31STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 213
+--- Lecturas ---
+IN_TEMP:18.87STR: Celsius
+HUM:42.0STR: %
+PRES:96543.55STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 143
+--- Lecturas ---
+IN_TEMP:17.04STR: Celsius
+HUM:46.1STR: %
+PRES:96486.30STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 214
+--- Lecturas ---
+IN_TEMP:18.95STR: Celsius
+HUM:42.4STR: %
+PRES:96547.44STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 144
+--- Lecturas ---
+IN_TEMP:16.95STR: Celsius
+HUM:45.0STR: %
+PRES:96475.54STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 215
+--- Lecturas ---
+IN_TEMP:18.96STR: Celsius
+HUM:42.3STR: %
+PRES:96538.55STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 145
+--- Lecturas ---
+IN_TEMP:16.91STR: Celsius
+HUM:44.3STR: %
+PRES:96481.17STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 216
+--- Lecturas ---
+IN_TEMP:19.05STR: Celsius
+HUM:42.0STR: %
+PRES:96545.54STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 146
+--- Lecturas ---
+IN_TEMP:16.90STR: Celsius
+HUM:44.3STR: %
+PRES:96479.17STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 217
+--- Lecturas ---
+IN_TEMP:19.02STR: Celsius
+HUM:41.2STR: %
+PRES:96547.49STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 147
+--- Lecturas ---
+IN_TEMP:16.93STR: Celsius
+HUM:44.3STR: %
+PRES:96474.73STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 218
+--- Lecturas ---
+IN_TEMP:18.97STR: Celsius
+HUM:40.9STR: %
+PRES:96538.55STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 148
+--- Lecturas ---
+IN_TEMP:16.95STR: Celsius
+HUM:44.2STR: %
+PRES:96484.16STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 219
+--- Lecturas ---
+IN_TEMP:18.89STR: Celsius
+HUM:40.2STR: %
+PRES:96543.16STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 149
+--- Lecturas ---
+IN_TEMP:16.96STR: Celsius
+HUM:44.0STR: %
+PRES:96482.53STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 220
+--- Lecturas ---
+IN_TEMP:18.88STR: Celsius
+HUM:40.5STR: %
+PRES:96544.33STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 150
+--- Lecturas ---
+IN_TEMP:16.98STR: Celsius
+HUM:43.8STR: %
+PRES:96481.30STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 221
+--- Lecturas ---
+IN_TEMP:18.93STR: Celsius
+HUM:40.5STR: %
+PRES:96548.61STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 151
+--- Lecturas ---
+IN_TEMP:16.99STR: Celsius
+HUM:43.6STR: %
+PRES:96479.30STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 222
+--- Lecturas ---
+IN_TEMP:18.95STR: Celsius
+HUM:40.0STR: %
+PRES:96546.69STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 152
+--- Lecturas ---
+IN_TEMP:17.02STR: Celsius
+HUM:43.7STR: %
+PRES:96479.20STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 223
+--- Lecturas ---
+IN_TEMP:18.98STR: Celsius
+HUM:40.0STR: %
+PRES:96540.09STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 153
+--- Lecturas ---
+IN_TEMP:16.99STR: Celsius
+HUM:43.4STR: %
+PRES:96478.53STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 224
+--- Lecturas ---
+IN_TEMP:18.92STR: Celsius
+HUM:39.6STR: %
+PRES:96542.41STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 154
+--- Lecturas ---
+IN_TEMP:16.99STR: Celsius
+HUM:43.0STR: %
+PRES:96482.84STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 225
+--- Lecturas ---
+IN_TEMP:18.87STR: Celsius
+HUM:39.0STR: %
+PRES:96545.88STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 155
+--- Lecturas ---
+IN_TEMP:17.01STR: Celsius
+HUM:42.8STR: %
+PRES:96477.63STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 226
+--- Lecturas ---
+IN_TEMP:18.86STR: Celsius
+HUM:38.8STR: %
+PRES:96539.67STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 156
+--- Lecturas ---
+IN_TEMP:17.09STR: Celsius
+HUM:42.7STR: %
+PRES:96478.22STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 227
+--- Lecturas ---
+IN_TEMP:18.98STR: Celsius
+HUM:38.7STR: %
+PRES:96543.20STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 157
+--- Lecturas ---
+IN_TEMP:17.15STR: Celsius
+HUM:42.6STR: %
+PRES:96476.45STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 228
+--- Lecturas ---
+IN_TEMP:19.11STR: Celsius
+HUM:38.5STR: %
+PRES:96538.98STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 158
+--- Lecturas ---
+IN_TEMP:17.21STR: Celsius
+HUM:42.5STR: %
+PRES:96473.13STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 229
+--- Lecturas ---
+IN_TEMP:19.20STR: Celsius
+HUM:38.2STR: %
+PRES:96538.61STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 159
+--- Lecturas ---
+IN_TEMP:17.27STR: Celsius
+HUM:42.4STR: %
+PRES:96477.68STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 230
+--- Lecturas ---
+IN_TEMP:19.17STR: Celsius
+HUM:38.0STR: %
+PRES:96534.72STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 160
+--- Lecturas ---
+IN_TEMP:17.32STR: Celsius
+HUM:42.5STR: %
+PRES:96473.57STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 231
+--- Lecturas ---
+IN_TEMP:19.20STR: Celsius
+HUM:38.3STR: %
+PRES:96546.38STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 161
+--- Lecturas ---
+IN_TEMP:17.37STR: Celsius
+HUM:42.8STR: %
+PRES:96473.01STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 232
+--- Lecturas ---
+IN_TEMP:19.21STR: Celsius
+HUM:38.7STR: %
+PRES:96535.51STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 162
+--- Lecturas ---
+IN_TEMP:17.41STR: Celsius
+HUM:42.8STR: %
+PRES:96470.13STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 233
+--- Lecturas ---
+IN_TEMP:19.26STR: Celsius
+HUM:39.1STR: %
+PRES:96539.02STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 163
+--- Lecturas ---
+IN_TEMP:17.39STR: Celsius
+HUM:42.5STR: %
+PRES:96469.80STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 234
+--- Lecturas ---
+IN_TEMP:19.29STR: Celsius
+HUM:39.3STR: %
+PRES:96547.94STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 164
+--- Lecturas ---
+IN_TEMP:17.34STR: Celsius
+HUM:42.6STR: %
+PRES:96475.88STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 235
+--- Lecturas ---
+IN_TEMP:19.25STR: Celsius
+HUM:39.2STR: %
+PRES:96537.08STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 165
+--- Lecturas ---
+IN_TEMP:17.32STR: Celsius
+HUM:42.8STR: %
+PRES:96474.34STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 236
+--- Lecturas ---
+IN_TEMP:19.25STR: Celsius
+HUM:39.5STR: %
+PRES:96537.85STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 166
+--- Lecturas ---
+IN_TEMP:17.33STR: Celsius
+HUM:42.9STR: %
+PRES:96475.11STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 237
+--- Lecturas ---
+IN_TEMP:19.23STR: Celsius
+HUM:39.5STR: %
+PRES:96537.83STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 167
+--- Lecturas ---
+IN_TEMP:17.27STR: Celsius
+HUM:42.5STR: %
+PRES:96479.69STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 238
+--- Lecturas ---
+IN_TEMP:19.11STR: Celsius
+HUM:38.9STR: %
+PRES:96537.80STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 168
+--- Lecturas ---
+IN_TEMP:17.26STR: Celsius
+HUM:42.5STR: %
+PRES:96474.56STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 239
+--- Lecturas ---
+IN_TEMP:18.98STR: Celsius
+HUM:38.2STR: %
+PRES:96533.89STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 169
+--- Lecturas ---
+IN_TEMP:17.27STR: Celsius
+HUM:42.6STR: %
+PRES:96471.36STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 240
+--- Lecturas ---
+IN_TEMP:18.97STR: Celsius
+HUM:38.4STR: %
+PRES:96541.27STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 170
+--- Lecturas ---
+IN_TEMP:17.27STR: Celsius
+HUM:42.4STR: %
+PRES:96473.33STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 241
+--- Lecturas ---
+IN_TEMP:18.98STR: Celsius
+HUM:38.8STR: %
+PRES:96539.72STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 171
+--- Lecturas ---
+IN_TEMP:17.26STR: Celsius
+HUM:42.2STR: %
+PRES:96474.56STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 242
+--- Lecturas ---
+IN_TEMP:19.04STR: Celsius
+HUM:39.2STR: %
+PRES:96533.91STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 172
+--- Lecturas ---
+IN_TEMP:17.25STR: Celsius
+HUM:42.0STR: %
+PRES:96476.11STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 243
+--- Lecturas ---
+IN_TEMP:19.03STR: Celsius
+HUM:39.3STR: %
+PRES:96534.28STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 173
+--- Lecturas ---
+IN_TEMP:17.32STR: Celsius
+HUM:41.9STR: %
+PRES:96472.00STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 244
+--- Lecturas ---
+IN_TEMP:19.08STR: Celsius
+HUM:39.3STR: %
+PRES:96533.94STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 174
+--- Lecturas ---
+IN_TEMP:17.27STR: Celsius
+HUM:41.9STR: %
+PRES:96477.68STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 245
+--- Lecturas ---
+IN_TEMP:19.08STR: Celsius
+HUM:39.5STR: %
+PRES:96539.73STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 175
+--- Lecturas ---
+IN_TEMP:17.26STR: Celsius
+HUM:41.7STR: %
+PRES:96476.11STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 246
+--- Lecturas ---
+IN_TEMP:19.00STR: Celsius
+HUM:39.0STR: %
+PRES:96540.48STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 176
+--- Lecturas ---
+IN_TEMP:17.25STR: Celsius
+HUM:42.4STR: %
+PRES:96469.02STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 247
+--- Lecturas ---
+IN_TEMP:18.88STR: Celsius
+HUM:39.0STR: %
+PRES:96533.84STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 177
+--- Lecturas ---
+IN_TEMP:17.17STR: Celsius
+HUM:41.9STR: %
+PRES:96467.33STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 248
+--- Lecturas ---
+IN_TEMP:18.82STR: Celsius
+HUM:38.6STR: %
+PRES:96543.92STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 178
+--- Lecturas ---
+IN_TEMP:17.12STR: Celsius
+HUM:41.8STR: %
+PRES:96474.20STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 249
+--- Lecturas ---
+IN_TEMP:18.67STR: Celsius
+HUM:38.4STR: %
+PRES:96540.73STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 179
+--- Lecturas ---
+IN_TEMP:17.10STR: Celsius
+HUM:41.8STR: %
+PRES:96474.20STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 250
+--- Lecturas ---
+IN_TEMP:18.60STR: Celsius
+HUM:38.5STR: %
+PRES:96534.47STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 180
+--- Lecturas ---
+IN_TEMP:17.09STR: Celsius
+HUM:42.0STR: %
+PRES:96475.44STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 251
+--- Lecturas ---
+IN_TEMP:18.51STR: Celsius
+HUM:38.9STR: %
+PRES:96533.66STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 181
+--- Lecturas ---
+IN_TEMP:17.09STR: Celsius
+HUM:41.9STR: %
+PRES:96474.67STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 252
+--- Lecturas ---
+IN_TEMP:18.48STR: Celsius
+HUM:38.8STR: %
+PRES:96540.63STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 182
+--- Lecturas ---
+IN_TEMP:17.10STR: Celsius
+HUM:42.1STR: %
+PRES:96471.44STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 253
+--- Lecturas ---
+IN_TEMP:18.55STR: Celsius
+HUM:39.0STR: %
+PRES:96539.89STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 183
+--- Lecturas ---
+IN_TEMP:17.10STR: Celsius
+HUM:42.3STR: %
+PRES:96471.90STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 254
+--- Lecturas ---
+IN_TEMP:18.51STR: Celsius
+HUM:39.2STR: %
+PRES:96533.66STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 184
+--- Lecturas ---
+IN_TEMP:17.12STR: Celsius
+HUM:42.5STR: %
+PRES:96468.66STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 255
+--- Lecturas ---
+IN_TEMP:18.48STR: Celsius
+HUM:39.3STR: %
+PRES:96530.55STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 185
+--- Lecturas ---
+IN_TEMP:17.00STR: Celsius
+HUM:42.0STR: %
+PRES:96470.20STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 0
+--- Lecturas ---
+IN_TEMP:18.45STR: Celsius
+HUM:39.2STR: %
+PRES:96534.40STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 186
+--- Lecturas ---
+IN_TEMP:16.98STR: Celsius
+HUM:41.9STR: %
+PRES:96474.64STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 1
+--- Lecturas ---
+IN_TEMP:18.37STR: Celsius
+HUM:39.0STR: %
+PRES:96536.30STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 187
+--- Lecturas ---
+IN_TEMP:16.92STR: Celsius
+HUM:41.8STR: %
+PRES:96470.85STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 2
+--- Lecturas ---
+IN_TEMP:18.21STR: Celsius
+HUM:38.8STR: %
+PRES:96539.66STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 188
+--- Lecturas ---
+IN_TEMP:16.89STR: Celsius
+HUM:41.8STR: %
+PRES:96466.20STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 3
+--- Lecturas ---
+IN_TEMP:18.11STR: Celsius
+HUM:38.6STR: %
+PRES:96531.86STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 189
+--- Lecturas ---
+IN_TEMP:16.88STR: Celsius
+HUM:41.8STR: %
+PRES:96476.52STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 4
+--- Lecturas ---
+IN_TEMP:18.11STR: Celsius
+HUM:38.9STR: %
+PRES:96537.27STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 190
+--- Lecturas ---
+IN_TEMP:16.86STR: Celsius
+HUM:41.9STR: %
+PRES:96473.75STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 5
+--- Lecturas ---
+IN_TEMP:18.11STR: Celsius
+HUM:39.2STR: %
+PRES:96537.27STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 191
+--- Lecturas ---
+IN_TEMP:16.87STR: Celsius
+HUM:42.2STR: %
+PRES:96473.75STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 6
+--- Lecturas ---
+IN_TEMP:18.01STR: Celsius
+HUM:39.1STR: %
+PRES:96538.39STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 192
+--- Lecturas ---
+IN_TEMP:16.85STR: Celsius
+HUM:42.0STR: %
+PRES:96475.38STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 7
+--- Lecturas ---
+IN_TEMP:17.99STR: Celsius
+HUM:39.3STR: %
+PRES:96532.94STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 193
+--- Lecturas ---
+IN_TEMP:16.85STR: Celsius
+HUM:42.2STR: %
+PRES:96469.41STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 8
+--- Lecturas ---
+IN_TEMP:17.92STR: Celsius
+HUM:39.2STR: %
+PRES:96534.45STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 194
+--- Lecturas ---
+IN_TEMP:16.85STR: Celsius
+HUM:42.0STR: %
+PRES:96469.06STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 9
+--- Lecturas ---
+IN_TEMP:17.90STR: Celsius
+HUM:39.3STR: %
+PRES:96540.25STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 195
+--- Lecturas ---
+IN_TEMP:16.84STR: Celsius
+HUM:42.1STR: %
+PRES:96471.84STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 10
+--- Lecturas ---
+IN_TEMP:17.92STR: Celsius
+HUM:39.6STR: %
+PRES:96534.83STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 196
+--- Lecturas ---
+IN_TEMP:16.82STR: Celsius
+HUM:42.2STR: %
+PRES:96467.19STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 11
+--- Lecturas ---
+IN_TEMP:17.91STR: Celsius
+HUM:39.9STR: %
+PRES:96542.59STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 197
+--- Lecturas ---
+IN_TEMP:16.81STR: Celsius
+HUM:42.7STR: %
+PRES:96467.19STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 12
+--- Lecturas ---
+IN_TEMP:17.97STR: Celsius
+HUM:40.2STR: %
+PRES:96530.22STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 198
+--- Lecturas ---
+IN_TEMP:16.83STR: Celsius
+HUM:42.8STR: %
+PRES:96462.75STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 13
+--- Lecturas ---
+IN_TEMP:18.02STR: Celsius
+HUM:40.5STR: %
+PRES:96536.45STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 293444E819623CF5
+ID Nodo: node_03
+Mensaje NÂº: 6
+--- Lecturas ---
+STR:ACC interrupt detected-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 293444E819623CF5
+ID Nodo: node_03
+Mensaje NÂº: 6
+--- Lecturas ---
+STR:ACC interrupt detected-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 199
+--- Lecturas ---
+IN_TEMP:16.82STR: Celsius
+HUM:42.5STR: %
+PRES:96467.52STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 14
+--- Lecturas ---
+IN_TEMP:18.04STR: Celsius
+HUM:40.3STR: %
+PRES:96536.86STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 200
+--- Lecturas ---
+IN_TEMP:16.83STR: Celsius
+HUM:42.3STR: %
+PRES:96471.84STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 15
+--- Lecturas ---
+IN_TEMP:18.12STR: Celsius
+HUM:40.6STR: %
+PRES:96532.27STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 201
+--- Lecturas ---
+IN_TEMP:16.88STR: Celsius
+HUM:42.3STR: %
+PRES:96470.52STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 16
+--- Lecturas ---
+IN_TEMP:18.11STR: Celsius
+HUM:40.3STR: %
+PRES:96529.95STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 202
+--- Lecturas ---
+IN_TEMP:16.90STR: Celsius
+HUM:42.6STR: %
+PRES:96465.31STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 17
+--- Lecturas ---
+IN_TEMP:18.07STR: Celsius
+HUM:40.0STR: %
+PRES:96533.39STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 203
+--- Lecturas ---
+IN_TEMP:16.88STR: Celsius
+HUM:42.4STR: %
+PRES:96471.75STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 18
+--- Lecturas ---
+IN_TEMP:18.04STR: Celsius
+HUM:40.0STR: %
+PRES:96529.50STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 204
+--- Lecturas ---
+IN_TEMP:16.87STR: Celsius
+HUM:42.7STR: %
+PRES:96466.97STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 19
+--- Lecturas ---
+IN_TEMP:18.06STR: Celsius
+HUM:40.3STR: %
+PRES:96532.62STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 205
+--- Lecturas ---
+IN_TEMP:16.91STR: Celsius
+HUM:43.0STR: %
+PRES:96464.88STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 20
+--- Lecturas ---
+IN_TEMP:18.10STR: Celsius
+HUM:40.6STR: %
+PRES:96534.20STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 206
+--- Lecturas ---
+IN_TEMP:16.94STR: Celsius
+HUM:42.9STR: %
+PRES:96467.22STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 21
+--- Lecturas ---
+IN_TEMP:18.14STR: Celsius
+HUM:40.6STR: %
+PRES:96531.89STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 207
+--- Lecturas ---
+IN_TEMP:16.93STR: Celsius
+HUM:42.7STR: %
+PRES:96466.42STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 22
+--- Lecturas ---
+IN_TEMP:18.15STR: Celsius
+HUM:40.5STR: %
+PRES:96532.66STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 208
+--- Lecturas ---
+IN_TEMP:16.91STR: Celsius
+HUM:42.8STR: %
+PRES:96470.85STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 23
+--- Lecturas ---
+IN_TEMP:18.12STR: Celsius
+HUM:40.4STR: %
+PRES:96528.78STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 209
+--- Lecturas ---
+IN_TEMP:16.90STR: Celsius
+HUM:42.6STR: %
+PRES:96468.85STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 24
+--- Lecturas ---
+IN_TEMP:18.13STR: Celsius
+HUM:40.5STR: %
+PRES:96533.06STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 210
+--- Lecturas ---
+IN_TEMP:16.91STR: Celsius
+HUM:42.7STR: %
+PRES:96473.20STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 25
+--- Lecturas ---
+IN_TEMP:18.12STR: Celsius
+HUM:40.2STR: %
+PRES:96536.55STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 211
+--- Lecturas ---
+IN_TEMP:16.93STR: Celsius
+HUM:42.6STR: %
+PRES:96458.90STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 26
+--- Lecturas ---
+IN_TEMP:18.15STR: Celsius
+HUM:40.1STR: %
+PRES:96533.44STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 293444E819623CF5
+ID Nodo: node_03
+Mensaje NÂº: 0
+--- Lecturas ---
+STR:Datos:  IN_TEMP:27.15
+HUM:40.4PRES:96598.22
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 212
+--- Lecturas ---
+IN_TEMP:16.94STR: Celsius
+HUM:42.7STR: %
+PRES:96465.22STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 27
+--- Lecturas ---
+IN_TEMP:18.15STR: Celsius
+HUM:40.2STR: %
+PRES:96530.72STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 293444E819623CF5
+ID Nodo: node_03
+Mensaje NÂº: 1
+--- Lecturas ---
+STR:Datos:  IN_TEMP:27.83
+HUM:39.6PRES:96604.21
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 213
+--- Lecturas ---
+IN_TEMP:16.98STR: Celsius
+HUM:43.0STR: %
+PRES:96465.09STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 28
+--- Lecturas ---
+IN_TEMP:18.17STR: Celsius
+HUM:40.1STR: %
+PRES:96531.13STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 293444E819623CF5
+ID Nodo: node_03
+Mensaje NÂº: 2
+--- Lecturas ---
+STR:Datos:  IN_TEMP:27.40
+HUM:37.4PRES:96627.59
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 214
+--- Lecturas ---
+IN_TEMP:17.06STR: Celsius
+HUM:43.5STR: %
+PRES:96467.55STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 29
+--- Lecturas ---
+IN_TEMP:18.19STR: Celsius
+HUM:40.1STR: %
+PRES:96526.51STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 293444E819623CF5
+ID Nodo: node_03
+Mensaje NÂº: 3
+--- Lecturas ---
+STR:Datos:  IN_TEMP:26.29
+HUM:33.3PRES:96649.19
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 215
+--- Lecturas ---
+IN_TEMP:17.16STR: Celsius
+HUM:44.1STR: %
+PRES:96466.13STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 30
+--- Lecturas ---
+IN_TEMP:18.17STR: Celsius
+HUM:40.4STR: %
+PRES:96530.36STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 293444E819623CF5
+ID Nodo: node_03
+Mensaje NÂº: 4
+--- Lecturas ---
+STR:Datos:  IN_TEMP:25.23
+HUM:32.0PRES:96630.13
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 216
+--- Lecturas ---
+IN_TEMP:17.24STR: Celsius
+HUM:44.6STR: %
+PRES:96469.02STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 31
+--- Lecturas ---
+IN_TEMP:18.20STR: Celsius
+HUM:40.7STR: %
+PRES:96530.00STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 217
+--- Lecturas ---
+IN_TEMP:17.33STR: Celsius
+HUM:44.9STR: %
+PRES:96466.02STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 32
+--- Lecturas ---
+IN_TEMP:18.22STR: Celsius
+HUM:41.3STR: %
+PRES:96529.63STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 218
+--- Lecturas ---
+IN_TEMP:17.37STR: Celsius
+HUM:44.9STR: %
+PRES:96459.91STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 33
+--- Lecturas ---
+IN_TEMP:18.27STR: Celsius
+HUM:42.1STR: %
+PRES:96530.44STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 219
+--- Lecturas ---
+IN_TEMP:17.40STR: Celsius
+HUM:44.7STR: %
+PRES:96457.46STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 34
+--- Lecturas ---
+IN_TEMP:18.30STR: Celsius
+HUM:41.9STR: %
+PRES:96528.53STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 293444E819623CF5
+ID Nodo: node_03
+Mensaje NÂº: 8
+--- Lecturas ---
+STR:Datos:  IN_TEMP:22.44
+HUM:31.2PRES:96571.69
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 220
+--- Lecturas ---
+IN_TEMP:17.41STR: Celsius
+HUM:44.5STR: %
+PRES:96467.36STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 35
+--- Lecturas ---
+IN_TEMP:18.34STR: Celsius
+HUM:41.5STR: %
+PRES:96523.48STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 221
+--- Lecturas ---
+IN_TEMP:17.41STR: Celsius
+HUM:44.1STR: %
+PRES:96465.02STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 36
+--- Lecturas ---
+IN_TEMP:18.31STR: Celsius
+HUM:41.4STR: %
+PRES:96531.23STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 222
+--- Lecturas ---
+IN_TEMP:17.34STR: Celsius
+HUM:44.1STR: %
+PRES:96470.03STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 37
+--- Lecturas ---
+IN_TEMP:18.26STR: Celsius
+HUM:41.6STR: %
+PRES:96526.16STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 223
+--- Lecturas ---
+IN_TEMP:17.17STR: Celsius
+HUM:43.1STR: %
+PRES:96460.58STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 38
+--- Lecturas ---
+IN_TEMP:18.27STR: Celsius
+HUM:41.6STR: %
+PRES:96535.86STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 224
+--- Lecturas ---
+IN_TEMP:17.12STR: Celsius
+HUM:43.1STR: %
+PRES:96460.67STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 39
+--- Lecturas ---
+IN_TEMP:18.24STR: Celsius
+HUM:41.4STR: %
+PRES:96524.98STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 225
+--- Lecturas ---
+IN_TEMP:17.15STR: Celsius
+HUM:43.3STR: %
+PRES:96461.35STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 40
+--- Lecturas ---
+IN_TEMP:18.26STR: Celsius
+HUM:41.3STR: %
+PRES:96530.44STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 226
+--- Lecturas ---
+IN_TEMP:17.22STR: Celsius
+HUM:43.8STR: %
+PRES:96458.78STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 41
+--- Lecturas ---
+IN_TEMP:18.32STR: Celsius
+HUM:41.2STR: %
+PRES:96532.78STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 227
+--- Lecturas ---
+IN_TEMP:17.31STR: Celsius
+HUM:44.0STR: %
+PRES:96461.70STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 42
+--- Lecturas ---
+IN_TEMP:18.38STR: Celsius
+HUM:41.3STR: %
+PRES:96527.40STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 228
+--- Lecturas ---
+IN_TEMP:17.37STR: Celsius
+HUM:44.4STR: %
+PRES:96459.91STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 43
+--- Lecturas ---
+IN_TEMP:18.43STR: Celsius
+HUM:41.9STR: %
+PRES:96528.97STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 229
+--- Lecturas ---
+IN_TEMP:17.40STR: Celsius
+HUM:44.2STR: %
+PRES:96455.15STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 44
+--- Lecturas ---
+IN_TEMP:18.45STR: Celsius
+HUM:41.6STR: %
+PRES:96530.91STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 230
+--- Lecturas ---
+IN_TEMP:17.41STR: Celsius
+HUM:44.1STR: %
+PRES:96459.03STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 45
+--- Lecturas ---
+IN_TEMP:18.40STR: Celsius
+HUM:41.7STR: %
+PRES:96529.73STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 231
+--- Lecturas ---
+IN_TEMP:17.40STR: Celsius
+HUM:43.8STR: %
+PRES:96457.46STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 46
+--- Lecturas ---
+IN_TEMP:18.37STR: Celsius
+HUM:41.3STR: %
+PRES:96524.28STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 232
+--- Lecturas ---
+IN_TEMP:17.40STR: Celsius
+HUM:43.4STR: %
+PRES:96462.24STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 47
+--- Lecturas ---
+IN_TEMP:18.32STR: Celsius
+HUM:41.0STR: %
+PRES:96527.36STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 233
+--- Lecturas ---
+IN_TEMP:17.37STR: Celsius
+HUM:43.3STR: %
+PRES:96459.91STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 48
+--- Lecturas ---
+IN_TEMP:18.30STR: Celsius
+HUM:40.9STR: %
+PRES:96526.95STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 234
+--- Lecturas ---
+IN_TEMP:17.39STR: Celsius
+HUM:43.5STR: %
+PRES:96455.92STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 49
+--- Lecturas ---
+IN_TEMP:18.30STR: Celsius
+HUM:41.3STR: %
+PRES:96519.59STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 235
+--- Lecturas ---
+IN_TEMP:17.38STR: Celsius
+HUM:43.3STR: %
+PRES:96458.70STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 50
+--- Lecturas ---
+IN_TEMP:18.32STR: Celsius
+HUM:41.2STR: %
+PRES:96525.42STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 236
+--- Lecturas ---
+IN_TEMP:17.47STR: Celsius
+HUM:44.0STR: %
+PRES:96458.03STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 51
+--- Lecturas ---
+IN_TEMP:18.37STR: Celsius
+HUM:41.3STR: %
+PRES:96528.56STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 237
+--- Lecturas ---
+IN_TEMP:17.48STR: Celsius
+HUM:43.9STR: %
+PRES:96461.91STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 52
+--- Lecturas ---
+IN_TEMP:18.37STR: Celsius
+HUM:41.6STR: %
+PRES:96525.45STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 238
+--- Lecturas ---
+IN_TEMP:17.45STR: Celsius
+HUM:43.5STR: %
+PRES:96458.91STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 53
+--- Lecturas ---
+IN_TEMP:18.32STR: Celsius
+HUM:41.0STR: %
+PRES:96522.30STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 239
+--- Lecturas ---
+IN_TEMP:17.40STR: Celsius
+HUM:43.2STR: %
+PRES:96458.70STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 54
+--- Lecturas ---
+IN_TEMP:18.30STR: Celsius
+HUM:40.8STR: %
+PRES:96522.70STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 240
+--- Lecturas ---
+IN_TEMP:17.27STR: Celsius
+HUM:42.7STR: %
+PRES:96460.26STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 55
+--- Lecturas ---
+IN_TEMP:18.27STR: Celsius
+HUM:40.4STR: %
+PRES:96525.75STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 241
+--- Lecturas ---
+IN_TEMP:17.31STR: Celsius
+HUM:42.5STR: %
+PRES:96460.56STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 56
+--- Lecturas ---
+IN_TEMP:18.27STR: Celsius
+HUM:40.1STR: %
+PRES:96521.13STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 242
+--- Lecturas ---
+IN_TEMP:17.28STR: Celsius
+HUM:42.4STR: %
+PRES:96459.36STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 57
+--- Lecturas ---
+IN_TEMP:18.33STR: Celsius
+HUM:40.5STR: %
+PRES:96535.91STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 243
+--- Lecturas ---
+IN_TEMP:17.31STR: Celsius
+HUM:42.2STR: %
+PRES:96462.47STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 58
+--- Lecturas ---
+IN_TEMP:18.25STR: Celsius
+HUM:40.0STR: %
+PRES:96540.48STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 244
+--- Lecturas ---
+IN_TEMP:18.21STR: Celsius
+HUM:42.6STR: %
+PRES:96498.42STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 59
+--- Lecturas ---
+IN_TEMP:18.85STR: Celsius
+HUM:37.7STR: %
+PRES:96524.95STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 245
+--- Lecturas ---
+IN_TEMP:19.15STR: Celsius
+HUM:41.7STR: %
+PRES:96488.10STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 60
+--- Lecturas ---
+IN_TEMP:19.44STR: Celsius
+HUM:36.8STR: %
+PRES:96522.35STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 246
+--- Lecturas ---
+IN_TEMP:19.68STR: Celsius
+HUM:40.7STR: %
+PRES:96488.30STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 61
+--- Lecturas ---
+IN_TEMP:19.75STR: Celsius
+HUM:35.1STR: %
+PRES:96514.25STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 247
+--- Lecturas ---
+IN_TEMP:20.05STR: Celsius
+HUM:39.8STR: %
+PRES:96479.89STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 62
+--- Lecturas ---
+IN_TEMP:20.12STR: Celsius
+HUM:37.7STR: %
+PRES:96260.53STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 248
+--- Lecturas ---
+IN_TEMP:19.81STR: Celsius
+HUM:39.5STR: %
+PRES:96448.70STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 63
+--- Lecturas ---
+IN_TEMP:19.95STR: Celsius
+HUM:37.7STR: %
+PRES:96514.63STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 249
+--- Lecturas ---
+IN_TEMP:19.45STR: Celsius
+HUM:39.4STR: %
+PRES:96443.63STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 64
+--- Lecturas ---
+IN_TEMP:19.71STR: Celsius
+HUM:37.8STR: %
+PRES:96516.97STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 250
+--- Lecturas ---
+IN_TEMP:19.28STR: Celsius
+HUM:39.1STR: %
+PRES:96444.02STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 65
+--- Lecturas ---
+IN_TEMP:19.57STR: Celsius
+HUM:37.9STR: %
+PRES:96522.36STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 293444E819623CF5
+ID Nodo: node_03
+Mensaje NÂº: 16
+--- Lecturas ---
+STR:ACC interrupt detected-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 251
+--- Lecturas ---
+IN_TEMP:18.97STR: Celsius
+HUM:39.0STR: %
+PRES:96445.10STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 66
+--- Lecturas ---
+IN_TEMP:19.23STR: Celsius
+HUM:37.8STR: %
+PRES:96520.39STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 293444E819623CF5
+ID Nodo: node_03
+Mensaje NÂº: 17
+--- Lecturas ---
+STR:Datos:  IN_TEMP:18.89
+HUM:40.0PRES:96564.34
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 252
+--- Lecturas ---
+IN_TEMP:18.83STR: Celsius
+HUM:38.8STR: %
+PRES:96441.17STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 293444E819623CF5
+ID Nodo: node_03
+Mensaje NÂº: 18
+--- Lecturas ---
+STR:Datos:  IN_TEMP:18.83
+HUM:39.6PRES:96574.70
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 253
+--- Lecturas ---
+IN_TEMP:18.67STR: Celsius
+HUM:38.8STR: %
+PRES:96455.27STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 293444E819623CF5
+ID Nodo: node_03
+Mensaje NÂº: 19
+--- Lecturas ---
+STR:Datos:  IN_TEMP:18.75
+HUM:39.4PRES:96576.27
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 254
+--- Lecturas ---
+IN_TEMP:18.50STR: Celsius
+HUM:38.8STR: %
+PRES:96451.77STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 293444E819623CF5
+ID Nodo: node_03
+Mensaje NÂº: 20
+--- Lecturas ---
+STR:Datos:  IN_TEMP:18.71
+HUM:39.2PRES:96568.02
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 255
+--- Lecturas ---
+IN_TEMP:18.48STR: Celsius
+HUM:39.0STR: %
+PRES:96446.33STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 293444E819623CF5
+ID Nodo: node_03
+Mensaje NÂº: 21
+--- Lecturas ---
+STR:Datos:  IN_TEMP:18.81
+HUM:39.7PRES:96627.47
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 0
+--- Lecturas ---
+IN_TEMP:18.27STR: Celsius
+HUM:38.6STR: %
+PRES:96447.88STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 293444E819623CF5
+ID Nodo: node_03
+Mensaje NÂº: 22
+--- Lecturas ---
+STR:Datos:  IN_TEMP:20.15
+HUM:39.5PRES:96622.08
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 1
+--- Lecturas ---
+IN_TEMP:18.19STR: Celsius
+HUM:38.9STR: %
+PRES:96447.03STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 293444E819623CF5
+ID Nodo: node_03
+Mensaje NÂº: 23
+--- Lecturas ---
+STR:Datos:  IN_TEMP:20.23
+HUM:38.1PRES:96568.45
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 2
+--- Lecturas ---
+IN_TEMP:17.93STR: Celsius
+HUM:38.3STR: %
+PRES:96442.00STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 293444E819623CF5
+ID Nodo: node_03
+Mensaje NÂº: 24
+--- Lecturas ---
+STR:Datos:  IN_TEMP:20.15
+HUM:37.0PRES:96566.64
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 3
+--- Lecturas ---
+IN_TEMP:17.87STR: Celsius
+HUM:38.5STR: %
+PRES:96447.67STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 293444E819623CF5
+ID Nodo: node_03
+Mensaje NÂº: 25
+--- Lecturas ---
+STR:Datos:  IN_TEMP:20.23
+HUM:36.4PRES:96569.25
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 4
+--- Lecturas ---
+IN_TEMP:17.88STR: Celsius
+HUM:38.5STR: %
+PRES:96450.78STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 293444E819623CF5
+ID Nodo: node_03
+Mensaje NÂº: 26
+--- Lecturas ---
+STR:Datos:  IN_TEMP:20.21
+HUM:36.1PRES:96567.15
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 5
+--- Lecturas ---
+IN_TEMP:17.94STR: Celsius
+HUM:38.8STR: %
+PRES:96446.98STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 293444E819623CF5
+ID Nodo: node_03
+Mensaje NÂº: 27
+--- Lecturas ---
+STR:Datos:  IN_TEMP:20.27
+HUM:35.8PRES:96561.78
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 6
+--- Lecturas ---
+IN_TEMP:18.00STR: Celsius
+HUM:38.9STR: %
+PRES:96441.17STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 293444E819623CF5
+ID Nodo: node_03
+Mensaje NÂº: 28
+--- Lecturas ---
+STR:Datos:  IN_TEMP:20.45
+HUM:36.7PRES:96584.88
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 7
+--- Lecturas ---
+IN_TEMP:18.07STR: Celsius
+HUM:39.1STR: %
+PRES:96443.70STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 78
+--- Lecturas ---
+IN_TEMP:19.10STR: Celsius
+HUM:38.8STR: %
+PRES:96503.29STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 8
+--- Lecturas ---
+IN_TEMP:18.10STR: Celsius
+HUM:39.3STR: %
+PRES:96448.05STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 79
+--- Lecturas ---
+IN_TEMP:19.09STR: Celsius
+HUM:38.2STR: %
+PRES:96508.33STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 9
+--- Lecturas ---
+IN_TEMP:18.13STR: Celsius
+HUM:39.4STR: %
+PRES:96447.14STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 80
+--- Lecturas ---
+IN_TEMP:19.08STR: Celsius
+HUM:37.9STR: %
+PRES:96505.21STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 10
+--- Lecturas ---
+IN_TEMP:18.15STR: Celsius
+HUM:39.5STR: %
+PRES:96443.02STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 81
+--- Lecturas ---
+IN_TEMP:19.18STR: Celsius
+HUM:37.8STR: %
+PRES:96511.45STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 11
+--- Lecturas ---
+IN_TEMP:18.19STR: Celsius
+HUM:39.9STR: %
+PRES:96450.44STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 82
+--- Lecturas ---
+IN_TEMP:19.31STR: Celsius
+HUM:37.9STR: %
+PRES:96513.05STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 6C287063D93742B0
+ID Nodo: node_02
+Mensaje NÂº: 12
+--- Lecturas ---
+IN_TEMP:18.20STR: Celsius
+HUM:39.8STR: %
+PRES:96444.88STR: Pa
+-----------------------
+
+--- PAQUETE DETECTADO ---
+MAC Origen: 2B2B1CE819623CA1
+ID Nodo: node_01
+Mensaje NÂº: 83
+--- Lecturas ---
+IN_TEMP:19.38STR: Celsius
+HUM:38.1STR: %
+PRES:96510.70STR: Pa
+-----------------------
