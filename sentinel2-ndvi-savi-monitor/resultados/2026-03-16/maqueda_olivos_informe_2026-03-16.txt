@@ -1,0 +1,45 @@
+REPORT maqueda_olivos (Image from 2026-03-16) - Resolution 10m
+==============================================================================
+     PIXEL     NDVI  NDVI STATUS                   SAVI  SAVI STATUS              
+------------------------------------------------------------------------------
+     (0,0)   0.6011  Good condition              0.3756  Good cover               
+     (0,1)   0.6278  Good condition              0.3887  Good cover               
+     (0,2)   0.6630  Excellent vigour            0.4112  Good cover               
+     (0,3)   0.6630  Excellent vigour            0.4112  Good cover               
+     (1,0)   0.6803  Excellent vigour            0.3869  Good cover               
+     (1,1)   0.7446  Excellent vigour            0.4315  Good cover               
+     (1,2)   0.7470  Excellent vigour            0.4458  Good cover               
+     (1,3)   0.7470  Excellent vigour            0.4458  Good cover               
+     (2,0)   0.6869  Excellent vigour            0.3992  Good cover               
+     (2,1)   0.7701  Excellent vigour            0.4635  Good cover               
+     (2,2)   0.7582  Excellent vigour            0.4656  Good cover               
+     (2,3)   0.7582  Excellent vigour            0.4656  Good cover               
+     (3,0)   0.6657  Excellent vigour            0.3765  Good cover               
+     (3,1)   0.7234  Excellent vigour            0.4385  Good cover               
+     (3,2)   0.7024  Excellent vigour            0.4392  Good cover               
+     (3,3)   0.7024  Excellent vigour            0.4392  Good cover               
+     (4,0)   0.6720  Excellent vigour            0.3761  Good cover               
+     (4,1)   0.6623  Excellent vigour            0.3936  Good cover               
+     (4,2)   0.6828  Excellent vigour            0.4149  Good cover               
+     (4,3)   0.6828  Excellent vigour            0.4149  Good cover               
+     (5,0)   0.6218  Good condition              0.3310  Medium cover             
+     (5,1)   0.6147  Good condition              0.3532  Good cover               
+     (5,2)   0.7157  Excellent vigour            0.4300  Good cover               
+     (5,3)   0.7157  Excellent vigour            0.4300  Good cover               
+     (6,0)   0.6167  Good condition              0.3408  Medium cover             
+     (6,1)   0.5882  Good condition              0.3497  Medium cover             
+     (6,2)   0.6842  Excellent vigour            0.4155  Good cover               
+     (6,3)   0.6842  Excellent vigour            0.4155  Good cover               
+     (7,0)   0.6469  Good condition              0.3683  Good cover               
+     (7,1)   0.5731  Good condition              0.3454  Medium cover             
+     (7,2)   0.6205  Good condition              0.3725  Good cover               
+     (7,3)   0.6205  Good condition              0.3725  Good cover               
+     (8,0)   0.5885  Good condition              0.3472  Medium cover             
+     (8,1)   0.5844  Good condition              0.3440  Medium cover             
+     (8,2)   0.5790  Good condition              0.3487  Medium cover             
+     (8,3)   0.5790  Good condition              0.3487  Medium cover             
+     (9,1)   0.5842  Good condition              0.3466  Medium cover             
+     (9,2)   0.5842  Good condition              0.3466  Medium cover             
+     (9,3)   0.6043  Good condition              0.3618  Good cover               
+
+SUMMARY: 39 px | Mean NDVI=0.6602 | Mean SAVI=0.3936
